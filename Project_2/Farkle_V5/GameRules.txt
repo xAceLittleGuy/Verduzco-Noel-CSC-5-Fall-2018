@@ -1,0 +1,35 @@
+How to Play
+To win at Farkle you must be the player with the highest score above 10,000 points on the final round of play.
+Each player takes turns rolling the dice. On your turn, you roll all six dice. A 1 or a 5, three of a kind, three pairs, or a six-dice straight earn points. You must select at least one scoring die. You can then pass and bank your points, or risk the points earned this turn and roll the remaining dice.
+Scoring is based on selected dice in each roll. You cannot earn points by combining dice from different rolls.
+If none of your dice rolled earn points, you get a Farkle. Three Farkles in a row and you lose 1,000 points.
+You continue rolling until you either Pass or Farkle. Then the next player rolls the six dice. Play continues until it is your turn again.
+Example: Your first rolls shows 1, 2, 3, 3, 5, and 6. You keep the 1 and the 5 for 150 points. You then opt to roll the remaining four dice. On that roll you get 3, 4, 4, and 5. You select the 5 and decide to Pass and bank your points.
+
+Scoring (Format):
+
+Dice
+Points
+
+1 Spot
+100
+5 Spot
+50
+Three 2 Spot
+200
+Three 3 Spot
+300
+Three 4 Spot
+400
+Three 5 Spot
+500
+Three 6 Spot
+600
+Three 1 Spot
+1,000
+Three Pairs
+500
+Six-Dice Straight
+1,000
+Three Farkles
+Lose 1,000

@@ -1,0 +1,3 @@
+Connor's score, win, and loss: 1010010
+ 
+Noel's score, win, and loss: 890001
